@@ -1,1 +1,3 @@
-# Bitcoin-Price-Prediction-Lineer-Regression-
+# Bitcoin Price Prediction With AI Using Lineer Regression
+
+**Dataset: BTC-USD.csv**
