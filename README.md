@@ -13,4 +13,5 @@
 <hr>
 
 **Developers**
+<br>
 [Furkan Demircan](https://github.com/Furkan-Demircan) | [Eray Elagoz](https://github.com/ErenElagz)
